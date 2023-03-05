@@ -1,1 +1,1 @@
-# PPNeRF
+# PP-NeRF
